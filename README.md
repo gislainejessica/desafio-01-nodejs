@@ -1,6 +1,3 @@
-# desafio-01-nodejs
-Primeiro desafio NodeJs
-
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 
